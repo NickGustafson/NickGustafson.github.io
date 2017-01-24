@@ -1,7 +1,7 @@
 # IASC 2P02
 <h2>Nick Gustafson</h2>
 
-<img src="http://nickcomics.ca/images/art/PacificItalia1_p4-5.bmp" border="0" alt="Euro Vacation" height="50%" />
+<img src="images/PacificItalia1_p4-5.bmp" border="0" alt="Euro Vacation" />
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac mauris consectetur felis egestas dictum. Aenean ac nisi ut ex ornare hendrerit non non justo. Morbi ullamcorper, nisl volutpat finibus eleifend, arcu urna finibus lorem, ac lacinia nisi leo non leo. Praesent mattis consequat mauris nec tincidunt. Nulla et sem nisi. Integer blandit justo non condimentum vestibulum. In convallis hendrerit mi ut ultrices. Cras ac ullamcorper sem, a dapibus mauris.
 
