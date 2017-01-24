@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+# IASC 2P02
+## Nick Gustafson
 
-You can use the [editor on GitHub](https://github.com/NickGustafson/NickGustafson.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac mauris consectetur felis egestas dictum. Aenean ac nisi ut ex ornare hendrerit non non justo. Morbi ullamcorper, nisl volutpat finibus eleifend, arcu urna finibus lorem, ac lacinia nisi leo non leo. Praesent mattis consequat mauris nec tincidunt. Nulla et sem nisi. Integer blandit justo non condimentum vestibulum. In convallis hendrerit mi ut ultrices. Cras ac ullamcorper sem, a dapibus mauris.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NickGustafson/NickGustafson.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Fusce ultrices bibendum nibh. Nulla facilisi. Vestibulum molestie vulputate ex, sit amet volutpat massa consectetur scelerisque. Proin lacinia, sapien at suscipit cursus, elit mauris laoreet enim, eget euismod sapien elit sit amet eros. Fusce maximus commodo lacinia. Aliquam erat volutpat. Donec facilisis tincidunt ipsum, feugiat rhoncus eros blandit eget. Pellentesque finibus bibendum ultrices. Phasellus facilisis augue venenatis, tristique dolor sed, porta nibh. Ut accumsan purus vel accumsan congue. Fusce in felis at elit imperdiet elementum. Nulla aliquam lacus vitae tristique maximus. Ut consequat est sit amet magna finibus tempus.
