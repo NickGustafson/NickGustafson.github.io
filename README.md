@@ -1,5 +1,5 @@
 # IASC 2P02
-## Nick Gustafson
+<h2>Nick Gustafson</h2>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac mauris consectetur felis egestas dictum. Aenean ac nisi ut ex ornare hendrerit non non justo. Morbi ullamcorper, nisl volutpat finibus eleifend, arcu urna finibus lorem, ac lacinia nisi leo non leo. Praesent mattis consequat mauris nec tincidunt. Nulla et sem nisi. Integer blandit justo non condimentum vestibulum. In convallis hendrerit mi ut ultrices. Cras ac ullamcorper sem, a dapibus mauris.
 
