@@ -5,6 +5,8 @@
 
 #visualization img { margin:5px 15px 25px 5px;box-shadow:5px 5px 10px #B5E853;background-color:#ffffff }
 #visualization figcaption { font-size:smaller }
+
+p { padding:10px }
 </style>
 
 <section id="blog-body">
