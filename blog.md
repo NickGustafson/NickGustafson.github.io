@@ -15,7 +15,7 @@ p { padding:10px }
 <h3>Academic Blog Post</h3>
 </header>
 
-<p>Examination of parallel developments in racial and computational history
+<p>Tara McPherson is a scholar with a professed “academic race, gender, and certain modes of theoretical inquiry” (McPherson, 2012) who has taken a more recent interest in “digital production and design” (McPherson, 2012).  It is hardly surprising therefore that she had long sought and found a way to link these two interests into a single theory to explain the lack of racial diversity in the study of digital humanities.
 
 In the same way that Drucker challenged the work of scholars like Moretti for accepting “supposedly self-evident ” data as “objects whose identity was established by interpretative decisions” (Drucker, 2011), it is perfectly reasonable for McPherson to go deeper and challenge the very medium in which data is presented.  Svensson would seem to agree that “Digital tools should not be seen as neutral artifacts. In their construction and contextual use, they reproduce certain assumptions.”
 
