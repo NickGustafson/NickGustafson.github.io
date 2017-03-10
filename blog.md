@@ -17,11 +17,13 @@ p { padding:10px }
 
 <p>Examination of parallel developments in racial and computational history
 
+In the same way that Drucker challenged the work of scholars like Moretti for accepting “supposedly self-evident ” data as “objects whose identity was established by interpretative decisions” (Drucker, 2011), it is perfectly reasonable for McPherson to go deeper and challenge the very medium in which data is presented.
+
 -has she proven that there is a connection between the two
 
--if there is a connection, could it be the other way around (I.e. computational thinking was applied in a racist manner)
+If there is a connection between these two events, is it necessarily one of cause a effect?  Beyond the shared temporality, could there not be a common influence that spurred the development of both.  Or might the connection even be the opposite direction: could not the emerging concepts of computing have been applied to society in a manner?
 
--if the connection is as stated, does that matter?  People are not programs.  What might be negatively applied in human interactions could be the best way to deal with program interactions</p>
+But even if we accept that there is a connection, and that its nature and direction are as McPherson states.  What then?  People are not collections of code.   They are not designed to implement specific functions in the most efficient way possible.  Concepts of differentiation, segregation and encapsulation  are obviously negatively applied to human beings, but they may equally be the best way for managing data and programs.</p>
 </section>
 
 <section id="visualization">
