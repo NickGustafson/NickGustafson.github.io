@@ -1,6 +1,6 @@
 <style type="text/css">
-#about-me { border:solid 2px #800000;border-radius:10px }
-#about-me header { background-color:#800000 }
+#about-me { border:solid 2px #B5E853;border-radius:10px }
+#about-me header { background-color:#B5E853 }
 #about-me h2, #about-me h3 { color:#ffffff }
 #about-me img { float:left;height:100px;border-radius:50%;margin:5px 15px 50px 5px;box-shadow:5px 5px 10px #B5E853 }
 </style>
