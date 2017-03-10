@@ -1,10 +1,11 @@
 <style type="text/css">
-section { border:solid 2px #800000;border-radius:10px }
-header { background-color:#800000;color:#ffffff }
-img { float:left }
+#about-me { border:solid 2px #800000;border-radius:10px }
+header { background-color:#800000; }
+#about-me h2, #about-me h3 { color:#ffffff }
+img { float:left;height:100px;border-radius:50% }
 </style>
 
-<section>
+<section id="about-me">
   <header>
     <h2>IASC 2P02 | Nick Gustafson</h2>
     <h3>About Me</h3>
