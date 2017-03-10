@@ -13,7 +13,13 @@
 <h3>Academic Blog Post</h3>
 </header>
 
-<p></p>
+<p>Examination of parallel developments in racial and computational history
+
+-has she proven that there is a connection between the two
+
+-if there is a connection, could it be the other way around (I.e. computational thinking was applied in a racist manner)
+
+-if the connection is as stated, does that matter?  People are not programs.  What might be negatively applied in human interactions could be the best way to deal with program interactions</p>
 </section>
 
 <section id="visualization">
