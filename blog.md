@@ -15,23 +15,51 @@ p { padding:10px }
 <h3>Academic Blog Post</h3>
 </header>
 
-<p>Tara McPherson is a scholar with a professed “academic race, gender, and certain modes of theoretical inquiry” (McPherson, 2012) who has taken a more recent interest in “digital production and design” (McPherson, 2012).  It is hardly surprising therefore that she had long sought and found a way to link these two interests into a single theory to explain the lack of racial diversity in the study of digital humanities.
+<p>Tara McPherson is a scholar with a professed "academic interest in race, gender, and certain modes of theoretical inquiry" (McPherson, 2012) 
+who has taken a more recent turn in "digital production and design" (McPherson, 2012).  It is hardly surprising therefore that she had long 
+sought and found a way to link these two interests into a single theory to explain how the hidden nature of technology has impacted considerations 
+of race in the study of digital humanities.</p>
 
-In the same way that Drucker challenged the work of scholars like Moretti for accepting “supposedly self-evident ” data as “objects whose identity was established by interpretative decisions” (Drucker, 2011), it is perfectly reasonable for McPherson to go deeper and challenge the very medium in which data is presented.  Svensson would seem to agree that “Digital tools should not be seen as neutral artifacts. In their construction and contextual use, they reproduce certain assumptions.”
+<p>In the same way that Johanna Drucker challenged the work of scholars like Franco Moretti for accepting "supposedly self-evident " data as "objects 
+whose identity was established by interpretative decisions" (Drucker, 2011), it is perfectly reasonable for McPherson to go deeper and challenge the 
+very medium in which data is presented.  Svensson would seem to agree that "digital tools should not be seen as neutral artifacts. In their 
+construction and contextual use, they reproduce certain assumptions." (Svennson, 2010).</p>
 
--has she proven that there is a connection between the two
+<p>The argument of McPherson focuses on the development of the UNIX operating system at Bell Labs in the 1960s, and not only places this within the 
+proper historical and cultural context of events such as the Civil Rights Movement, but suggests that  the events "coconstitute [sic] one another, 
+comprising not independent slices of history but instead related and useful lenses." (McPherson, 2012).  However, this appears to contradict her earlier 
+assertion that she was not "arguing that one mode is causally related to the other, but, rather, that they both represent a move toward fragmentary 
+or modular ways of knowing and of organizing information" (McPherson, 2007).  She clarifies that she does not believe that the developers of UNIX 
+were racists or had "consciously encod(ed) new modes of racism and racial understanding into digital systems."(McPherson, 2012).  So, while it is 
+clear that "these technologized ways of seeing and knowing took shape in a world also struggling with shifting knowledges and representations of 
+race" (McPherson, 2007), she does not offer any definitive evidence of a connection beyond the coincidence of timing and similarity of structure.</p>
 
-“these technologized ways of seeing and knowing took shape in a world also struggling with shifting knowledges and representations of race” (McPherson, 2007)
+<p>Indeed, one would imagine that the casual user of digital tools such a word processing programs, the neutrality of which could be "arguably more 
+easily construed" (Svennson, 2010), would hardly know or care how the code is internally organized.</p>
 
-If the digital humanities are more predisposed to “cultural studies of the Anglophone sort” (Svensson, 2010), can a connection be drawn to the fact UNIX was developed by English-speaking Americans and that many programming languages including C (and its descendants) extensively borrow words and syntax from English? 
+<p>Of course there are a myriad number of ways that humans categorize themselves beyond race. If the digital humanities were more predisposed to "cultural 
+studies of the Anglophone sort" (Svensson, 2010), should a connection be drawn to the fact UNIX was developed by English-speaking Americans and that 
+many programming languages including C (and its descendants) extensively use loan words and syntax from English? Along similar lines, given that the 
+developers of UNIX and C were men, the question "Why are the digital humanities so male?" should be a valid one were it not for the fact that, regardless 
+of this, there appear to be a significant number of female scholars in this field.  Beyond McPherson herself and Johanna Drucker, perhaps half of the 
+works cited by male scholar Svennson are women.</p>
 
-Given that the developers of UNIX and C were men, it seems strange that the question “why are the digital humanities so male?” is not really valid, given the number of female scholars engaged in the topic.  Beyond McPherson and Drucker, perhaps half of the works cited by male scholars such as Svennson are women.
+<p>Supposing that a direct connection does exist between the events described, must it necessarily be one of cause and effect?  Is it not possible that a 
+third event or sequence of events had an effect on both, thereby accounting for the similarities that McPherson has described?  Another possibility which 
+presents itself is that connection is in the opposite direction that McPherson supposes;  that the emergence of digital systems popularized the 
+"modularity and encapsulation" (McPherson, 2012) that was embraced by identity politics in the 1960s.</p>
 
-If there is a connection between these two events, is it necessarily one of cause a effect?  Beyond the shared temporality, could there not be a common influence that spurred the development of both.  Or might the connection even be the opposite direction: could not the emerging concepts of computing have been applied to society in a manner?
+<p>However, if we do allow that a connection exists, that its nature is as McPherson states.  and that therefore UNIX was from its conception a product of  
+(unintentional) racism, what is to follow from that conclusion?  If it is racist, it is racist to collections of code.  People, unlike programs, are not 
+designed to implement specific functions in the most efficient way possible.  A program that does not need to know everything and will not require particular 
+access or functionality will not be hurt by having those hidden or denied to it.  McPherson makes a strong case for how concepts of  
+"modularity, fragmentation, and dispersion" (McPherson, 2007) have negative consequences when applied to human interactions over the last half century, but 
+with a possible exception of sapient artificial intelligence, it is simply the best way that has been found for efficient digital interactions, regardless 
+of its origin.</p>
 
-But even if we accept that there is a connection, and that its nature and direction are as McPherson states.  What then?  People are not collections of code.   They are not designed to implement specific functions in the most efficient way possible.  Concepts of  “modularity, fragmentation, and dispersion” (McPherson, 2007) are obviously negatively applied to human beings, but they may equally be the best way for managing data and programs.
-
-Although she stated earlier that “ I am not so much arguing that one mode is causally related to the other, but, rather, that they both represent a move toward fragmentary or modular ways of knowing and of organizing information” (McPherson, 2007)</p>
+<p>Tellingly, when McPherson allows that advantages exist for this manner of coding, she then asserts that it "underscore(s) a worldview in which a troublesome 
+part might be discarded without disrupting the whole" (McPherson, 2012).   In this manner, she has ascribed to programmers a single-mindedness whereby they 
+would approach problems in the digital world in the same manner as the physical, which is ridiculous (and a bit offensive).</p>
 </section>
 
 <section id="visualization">
