@@ -15,50 +15,50 @@ p { padding:10px }
 <h3>Academic Blog Post</h3>
 </header>
 
-<p>Tara McPherson is a scholar with a professed "academic interest in race, gender, and certain modes of theoretical inquiry" (McPherson, 2012) 
-who has taken a more recent turn in "digital production and design" (McPherson, 2012).  It is hardly surprising therefore that she had long 
+<p>Tara McPherson is a scholar with a professed &quot;academic interest in race, gender, and certain modes of theoretical inquiry&quot; (McPherson, 2012) 
+who has taken a more recent turn in &quot;digital production and design&quot; (McPherson, 2012).  It is hardly surprising therefore that she had long 
 sought and found a way to link these two interests into a single theory to explain how the hidden nature of technology has impacted considerations 
 of race in the study of digital humanities.</p>
 
-<p>In the same way that Johanna Drucker challenged the work of scholars like Franco Moretti for accepting "supposedly self-evident " data as "objects 
-whose identity was established by interpretative decisions" (Drucker, 2011), it is perfectly reasonable for McPherson to go deeper and challenge the 
-very medium in which data is presented.  Svensson would seem to agree that "digital tools should not be seen as neutral artifacts. In their 
-construction and contextual use, they reproduce certain assumptions." (Svennson, 2010).</p>
+<p>In the same way that Johanna Drucker challenged the work of scholars like Franco Moretti for accepting &quot;supposedly self-evident &quot; data as &quot;objects 
+whose identity was established by interpretative decisions&quot; (Drucker, 2011), it is perfectly reasonable for McPherson to go deeper and challenge the 
+very medium in which data is presented.  Svensson would seem to agree that &quot;digital tools should not be seen as neutral artifacts. In their 
+construction and contextual use, they reproduce certain assumptions.&quot; (Svennson, 2010).</p>
 
 <p>The argument of McPherson focuses on the development of the UNIX operating system at Bell Labs in the 1960s, and not only places this within the 
-proper historical and cultural context of events such as the Civil Rights Movement, but suggests that  the events "coconstitute [sic] one another, 
-comprising not independent slices of history but instead related and useful lenses." (McPherson, 2012).  However, this appears to contradict her earlier 
-assertion that she was not "arguing that one mode is causally related to the other, but, rather, that they both represent a move toward fragmentary 
-or modular ways of knowing and of organizing information" (McPherson, 2007).  She clarifies that she does not believe that the developers of UNIX 
-were racists or had "consciously encod(ed) new modes of racism and racial understanding into digital systems."(McPherson, 2012).  So, while it is 
-clear that "these technologized ways of seeing and knowing took shape in a world also struggling with shifting knowledges and representations of 
-race" (McPherson, 2007), she does not offer any definitive evidence of a connection beyond the coincidence of timing and similarity of structure.</p>
+proper historical and cultural context of events such as the Civil Rights Movement, but suggests that  the events &quot;coconstitute [sic] one another, 
+comprising not independent slices of history but instead related and useful lenses.&quot; (McPherson, 2012).  However, this appears to contradict her earlier 
+assertion that she was not &quot;arguing that one mode is causally related to the other, but, rather, that they both represent a move toward fragmentary 
+or modular ways of knowing and of organizing information&quot; (McPherson, 2007).  She clarifies that she does not believe that the developers of UNIX 
+were racists or had &quot;consciously encod(ed) new modes of racism and racial understanding into digital systems.&quot;(McPherson, 2012).  So, while it is 
+clear that &quot;these technologized ways of seeing and knowing took shape in a world also struggling with shifting knowledges and representations of 
+race&quot; (McPherson, 2007), she does not offer any definitive evidence of a connection beyond the coincidence of timing and similarity of structure.</p>
 
-<p>Indeed, one would imagine that the casual user of digital tools such a word processing programs, the neutrality of which could be "arguably more 
-easily construed" (Svennson, 2010), would hardly know or care how the code is internally organized.</p>
+<p>Indeed, one would imagine that the casual user of digital tools such a word processing programs, the neutrality of which could be &quot;arguably more 
+easily construed&quot; (Svennson, 2010), would hardly know or care how the code is internally organized.</p>
 
-<p>Of course there are a myriad number of ways that humans categorize themselves beyond race. If the digital humanities were more predisposed to "cultural 
-studies of the Anglophone sort" (Svensson, 2010), should a connection be drawn to the fact UNIX was developed by English-speaking Americans and that 
+<p>Of course there are a myriad number of ways that humans categorize themselves beyond race. If the digital humanities were more predisposed to &quot;cultural 
+studies of the Anglophone sort&quot; (Svensson, 2010), should a connection be drawn to the fact UNIX was developed by English-speaking Americans and that 
 many programming languages including C (and its descendants) extensively use loan words and syntax from English? Along similar lines, given that the 
-developers of UNIX and C were men, the question "Why are the digital humanities so male?" should be a valid one were it not for the fact that, regardless 
+developers of UNIX and C were men, the question &quot;Why are the digital humanities so male?&quot; should be a valid one were it not for the fact that, regardless 
 of this, there appear to be a significant number of female scholars in this field.  Beyond McPherson herself and Johanna Drucker, perhaps half of the 
 works cited by male scholar Svennson are women.</p>
 
 <p>Supposing that a direct connection does exist between the events described, must it necessarily be one of cause and effect?  Is it not possible that a 
 third event or sequence of events had an effect on both, thereby accounting for the similarities that McPherson has described?  Another possibility which 
 presents itself is that connection is in the opposite direction that McPherson supposes;  that the emergence of digital systems popularized the 
-"modularity and encapsulation" (McPherson, 2012) that was embraced by identity politics in the 1960s.</p>
+&quot;modularity and encapsulation&quot; (McPherson, 2012) that was embraced by identity politics in the 1960s.</p>
 
 <p>However, if we do allow that a connection exists, that its nature is as McPherson states.  and that therefore UNIX was from its conception a product of  
 (unintentional) racism, what is to follow from that conclusion?  If it is racist, it is racist to collections of code.  People, unlike programs, are not 
 designed to implement specific functions in the most efficient way possible.  A program that does not need to know everything and will not require particular 
 access or functionality will not be hurt by having those hidden or denied to it.  McPherson makes a strong case for how concepts of  
-"modularity, fragmentation, and dispersion" (McPherson, 2007) have negative consequences when applied to human interactions over the last half century, but 
+&quot;modularity, fragmentation, and dispersion&quot; (McPherson, 2007) have negative consequences when applied to human interactions over the last half century, but 
 with a possible exception of sapient artificial intelligence, it is simply the best way that has been found for efficient digital interactions, regardless 
 of its origin.</p>
 
-<p>Tellingly, when McPherson allows that advantages exist for this manner of coding, she then asserts that it "underscore(s) a worldview in which a troublesome 
-part might be discarded without disrupting the whole" (McPherson, 2012).   In this manner, she has ascribed to programmers a single-mindedness whereby they 
+<p>Tellingly, when McPherson allows that advantages exist for this manner of coding, she then asserts that it &quot;underscore(s) a worldview in which a troublesome 
+part might be discarded without disrupting the whole&quot; (McPherson, 2012).   In this manner, she has ascribed to programmers a single-mindedness whereby they 
 would approach problems in the digital world in the same manner as the physical, which is ridiculous (and a bit offensive).</p>
 </section>
 
