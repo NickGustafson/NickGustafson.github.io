@@ -16,6 +16,9 @@
 </section>
 
 <section id="visualization">
+<header>
+<h4>Visualization</h4>
+</header>
 <figure>
 <img />
 <figcaption></figcaption>
@@ -24,5 +27,8 @@
 
 <section id="works-cited">
 <header>
+<h4>Works Cited</h4>
 </header>
+<ol>
+</ol>
 </section>
