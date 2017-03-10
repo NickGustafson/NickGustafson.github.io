@@ -1,8 +1,8 @@
 <style type="text/css">
 #about-me { border:solid 2px #800000;border-radius:10px }
-header { background-color:#800000; }
+#about-me header { background-color:#800000; }
 #about-me h2, #about-me h3 { color:#ffffff }
-img { float:left;height:100px;border-radius:50% }
+#about-me img { float:left;height:100px;border-radius:50%;margin:5px }
 </style>
 
 <section id="about-me">
