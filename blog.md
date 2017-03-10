@@ -1,9 +1,10 @@
 <style type="text/css">
 #blog-body { border:solid 2px #B5E853;border-radius:10px }
 #blog-body header { background-color:#B5E853 }
-#blog-body h2, #about-me h3 { color:#1A1A1A }
+#blog-body h2, #blog-body h3 { color:#1A1A1A }
+
 #visualization img { margin:5px 15px 25px 5px;box-shadow:5px 5px 10px #B5E853 }
-#visaulization figcaption { font-size:smaller }
+#visualization figcaption { font-size:smaller }
 </style>
 
 <section id="blog-body">
