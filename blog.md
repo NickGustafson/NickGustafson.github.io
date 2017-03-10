@@ -40,12 +40,12 @@ Although she stated earlier that “ I am not so much arguing that one mode is c
 </header>
 <figure>
 <img src="images/voyant1.png" />
-<figcaption>A "Links" visualization of McPherson's earlier article (from http://voyant-tools.org)</figcaption>
+<figcaption>A "Links" visualization of McPherson's 2012 article (from http://voyant-tools.org)</figcaption>
 </figure>
 
 <figure>
 <img src="images/voyant2.png" />
-<figcaption>A "Links" visualization of a Princeton article on the development of UNIX</figcaption>
+<figcaption>A "Links" visualization of a Princeton article on the development of UNIX (from http://voyant-tools.org)</figcaption>
 </figure>
 </section>
 
