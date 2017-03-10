@@ -22,8 +22,7 @@ of race in the study of digital humanities.</p>
 
 <p>In the same way that Johanna Drucker challenged the work of scholars like Franco Moretti for accepting &quot;supposedly self-evident &quot; data as &quot;objects 
 whose identity was established by interpretative decisions&quot; (Drucker, 2011), it is perfectly reasonable for McPherson to go deeper and challenge the 
-very medium in which data is presented.  Svensson would seem to agree that &quot;digital tools should not be seen as neutral artifacts. In their 
-construction and contextual use, they reproduce certain assumptions.&quot; (Svennson, 2010).</p>
+very medium in which data is presented.  Svensson would seem to agree that &quot;digital tools should not be seen as neutral artifacts. In their construction and contextual use, they reproduce certain assumptions.&quot; (Svennson, 2010).</p>
 
 <p>The argument of McPherson focuses on the development of the UNIX operating system at Bell Labs in the 1960s, and not only places this within the 
 proper historical and cultural context of events such as the Civil Rights Movement, but suggests that  the events &quot;coconstitute [sic] one another, 
