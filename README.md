@@ -2,7 +2,7 @@
 #about-me { border:solid 2px #800000;border-radius:10px }
 #about-me header { background-color:#800000; }
 #about-me h2, #about-me h3 { color:#ffffff }
-#about-me img { float:left;height:100px;border-radius:50%;margin:5px }
+#about-me img { float:left;height:100px;border-radius:50%;margin:5px 5px 25px 5px }
 </style>
 
 <section id="about-me">
