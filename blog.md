@@ -3,7 +3,7 @@
 #blog-body header { background-color:#B5E853 }
 #blog-body h2, #blog-body h3 { color:#1A1A1A }
 
-#visualization img { margin:5px 15px 25px 5px;box-shadow:5px 5px 10px #B5E853 }
+#visualization img { margin:5px 15px 25px 5px;box-shadow:5px 5px 10px #B5E853;background-color:#ffffff }
 #visualization figcaption { font-size:smaller }
 </style>
 
