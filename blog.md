@@ -39,9 +39,9 @@ p { padding:10px }
 <h3>Works Cited</h3>
 </header>
 <ol>
-<li>Kirschenbaum, Matthew. "What Is Digital Humanities and What’s It Doing in English Departments?". Debates in Digital Humanities (2012). http://dhdebates.gc.cuny.edu/debates/text/38</li>
-<li>McPherson, Tara. "Introduction to Difference Issue". Vectors Journal 3:1 (2007). http://vectors.usc.edu/issues/index.php?issue=5.</li>
-<li>McPherson, Tara. "Why Are the Digital Humanities So White? or Thinking the Histories of Race and Computation". Debates in Digital Humanities (2012). http://dhdebates.gc.cuny.edu/debates/text/29.</li>
-<li>Svensson, Patrik. "The Landscape of Digital Humanities". Digital Humanities Quarterly 4:1 (2010). http://digitalhumanities.org/dhq/vol/4/1/000080/000080.html.</li>
+<li>Kirschenbaum, Matthew (2012). "What Is Digital Humanities and What’s It Doing in English Departments?". Debates in Digital Humanities. Retrieved from http://dhdebates.gc.cuny.edu/debates/text/38</li>
+<li>McPherson, Tara (2007). "Introduction to Difference Issue". Vectors Journal. Retrieved from http://vectors.usc.edu/issues/index.php?issue=5.</li>
+<li>McPherson, Tara (2012). "Why Are the Digital Humanities So White? or Thinking the Histories of Race and Computation". Debates in Digital Humanities. Retrieved from http://dhdebates.gc.cuny.edu/debates/text/29.</li>
+<li>Svensson, Patrik (2010). "The Landscape of Digital Humanities". Digital Humanities Quarterly. Retrieved from http://digitalhumanities.org/dhq/vol/4/1/000080/000080.html.</li>
 </ol>
 </section>
