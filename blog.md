@@ -17,13 +17,21 @@ p { padding:10px }
 
 <p>Examination of parallel developments in racial and computational history
 
-In the same way that Drucker challenged the work of scholars like Moretti for accepting “supposedly self-evident ” data as “objects whose identity was established by interpretative decisions” (Drucker, 2011), it is perfectly reasonable for McPherson to go deeper and challenge the very medium in which data is presented.
+In the same way that Drucker challenged the work of scholars like Moretti for accepting “supposedly self-evident ” data as “objects whose identity was established by interpretative decisions” (Drucker, 2011), it is perfectly reasonable for McPherson to go deeper and challenge the very medium in which data is presented.  Svensson would seem to agree that “Digital tools should not be seen as neutral artifacts. In their construction and contextual use, they reproduce certain assumptions.”
 
 -has she proven that there is a connection between the two
 
+“these technologized ways of seeing and knowing took shape in a world also struggling with shifting knowledges and representations of race” (McPherson, 2007)
+
+If the digital humanities are more predisposed to “cultural studies of the Anglophone sort” (Svensson, 2010), can a connection be drawn to the fact UNIX was developed by English-speaking Americans and that many programming languages including C (and its descendants) extensively borrow words and syntax from English? 
+
+Given that the developers of UNIX and C were men, it seems strange that the question “why are the digital humanities so male?” is not really valid, given the number of female scholars engaged in the topic.  Beyond McPherson and Drucker, perhaps half of the works cited by male scholars such as Svennson are women.
+
 If there is a connection between these two events, is it necessarily one of cause a effect?  Beyond the shared temporality, could there not be a common influence that spurred the development of both.  Or might the connection even be the opposite direction: could not the emerging concepts of computing have been applied to society in a manner?
 
-But even if we accept that there is a connection, and that its nature and direction are as McPherson states.  What then?  People are not collections of code.   They are not designed to implement specific functions in the most efficient way possible.  Concepts of differentiation, segregation and encapsulation  are obviously negatively applied to human beings, but they may equally be the best way for managing data and programs.</p>
+But even if we accept that there is a connection, and that its nature and direction are as McPherson states.  What then?  People are not collections of code.   They are not designed to implement specific functions in the most efficient way possible.  Concepts of  “modularity, fragmentation, and dispersion” (McPherson, 2007) are obviously negatively applied to human beings, but they may equally be the best way for managing data and programs.
+
+Although she stated earlier that “ I am not so much arguing that one mode is causally related to the other, but, rather, that they both represent a move toward fragmentary or modular ways of knowing and of organizing information” (McPherson, 2007)</p>
 </section>
 
 <section id="visualization">
