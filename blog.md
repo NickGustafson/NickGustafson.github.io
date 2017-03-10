@@ -1,7 +1,7 @@
 <style type="text/css">
 #main_content section { border:solid 2px #B5E853;border-radius:10px }
 #main_content header { background-color:#B5E853 }
-#main_content h2, #main_content h3 { color:#1A1A1A }
+#main_content h2, #main_content h3 { color:#1A1A1A;padding:5px 0 0 5px }
 
 #visualization img { margin:5px 15px 25px 5px;box-shadow:5px 5px 10px #B5E853;background-color:#ffffff }
 #visualization figcaption { font-size:smaller }
