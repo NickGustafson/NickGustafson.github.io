@@ -1,12 +1,19 @@
-# IASC 2P02 | Nick Gustafson
-<h3>About Me</h3>
+<style type="text/css">
+section { border:solid 2px #800000;border-radius:10px }
+header { background-color:#800000;color:#ffffff }
+img { float:left }
+</style>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac mauris consectetur felis egestas dictum. Aenean ac nisi ut ex ornare hendrerit non non justo. Morbi ullamcorper, nisl volutpat finibus eleifend, arcu urna finibus lorem, ac lacinia nisi leo non leo. Praesent mattis consequat mauris nec tincidunt. Nulla et sem nisi. Integer blandit justo non condimentum vestibulum. In convallis hendrerit mi ut ultrices. Cras ac ullamcorper sem, a dapibus mauris.
+<section>
+  <header>
+    <h2>IASC 2P02 | Nick Gustafson</h2>
+    <h3>About Me</h3>
+  </header>
+  
+  <img src="images/caricature_cropped.png" border="0" alt="Me" />
 
-<img src="images/PacificItalia1_p4-5.bmp" border="0" alt="Euro Vacation" />
-<a href="http://nickcomics.ca/" target="_new">Nick Comics</a>
-
-Fusce ultrices bibendum nibh. Nulla facilisi. Vestibulum molestie vulputate ex, sit amet volutpat massa consectetur scelerisque. Proin lacinia, sapien at suscipit cursus, elit mauris laoreet enim, eget euismod sapien elit sit amet eros. Fusce maximus commodo lacinia. Aliquam erat volutpat. Donec facilisis tincidunt ipsum, feugiat rhoncus eros blandit eget. Pellentesque finibus bibendum ultrices. Phasellus facilisis augue venenatis, tristique dolor sed, porta nibh. Ut accumsan purus vel accumsan congue. Fusce in felis at elit imperdiet elementum. Nulla aliquam lacus vitae tristique maximus. Ut consequat est sit amet magna finibus tempus.
+Nick Gustafson is a second year Interactive Arts and Science student at Brock University.  He holds an advanced diploma in Computer Science Technology (with High Honours) and has worked for nine years as a web developer for Endo Networks.  
+</section>
 
 <h3>Blog Post</h3>
 <a href="blog.html">Blog Post</a>
