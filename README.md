@@ -18,3 +18,7 @@
 
 <h3>Blog Post</h3>
 <a href="blog.html">Blog Post</a>
+
+<h3>Solo Presentation</h3>
+<a href="Reveal-Presentation/">Solo Presentation</a>
+
