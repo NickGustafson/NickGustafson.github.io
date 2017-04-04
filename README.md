@@ -43,7 +43,7 @@
 <section id="featured" class="portfolio-section">
   <header>
     <h3>Featured Project</h3>
-    <h3>&quot;Title&quot;</h3>
+    <h3>The Mechanical Tele-Vision <small>(or How the RRG Conquered the World)</small></h3>
   </header>
   
   <img src="https://nickgustafson.github.io/Reveal-Presentation/images/image17.jpg" border="0" alt="" />
