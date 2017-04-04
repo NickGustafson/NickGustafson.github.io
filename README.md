@@ -22,16 +22,21 @@
   
   <p>
     <strong>Research statement</strong>
-    <pre>
       A 200 word statement that answers the following questions:
-      • What is your major and year?
-      • What is your specific research interest/area of specialization within the digital humanities? What
-      research program would you like to undertake in the field?
-      • How are your existing projects reflective of this emphasis? How have you already demonstrated
-      expertise in your stated specialization?
-      • Where will you take this work in the future? (Assume you will continue to do research within the digital
-      humanities, even if this is not the case)
-     </pre>
+      <ul>
+        <li>What is your major and year?</li>
+        <li>What is your specific research interest/area of specialization within the digital humanities? What
+        research program would you like to undertake in the field?</li>
+        <li>How are your existing projects reflective of this emphasis? How have you already demonstrated
+        expertise in your stated specialization?</li>
+        <li>Where will you take this work in the future? (Assume you will continue to do research within the digital
+        humanities, even if this is not the case)</li>
+      </ul>
+      
+      Here is a short list of areas of specialization: critical infrastructure studies, geospatial analysis, data
+      visualization, text analysis, algorithmic criticism, media archaeology, cultural studies, built media
+      scholarship, and open access publishing. You are by no means restricted to this list when choosing a
+      specialization.
    </p>
 </section>
 
