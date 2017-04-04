@@ -61,17 +61,23 @@
 </section>
 
 <section id="collab" class="portfolio-section">
-    <h3>Collaborative Project</h3>
+    <header>
+      <h3>Collaborative Project</h3>
+    </header>
     <a href="collab.html">StoryMapJS featuring &quot;Underground to Canada&quot;</a>
 </section>
 
 <section id="research" class="portfolio-section">
-  <h3>Research Presentation</h3>
+  <header>
+    <h3>Research Presentation</h3>
+  </header>
   <a href="Reveal-Presentation/">The Mechanical Tele-Vision <small>(or How the RRG Conquered the World)</small></a>
 </section>
 
 <section id="blog" class="portfolio-section">
-  <h3>Academic Blog</h3>
+  <header>
+    <h3>Academic Blog</h3>
+  </header>
   <a href="blog.html">Is Programmatic Thinking Racist?</a>
 </section>
 
