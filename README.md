@@ -1,6 +1,6 @@
 <style type="text/css">
 .portfolio-section { border:solid 2px #B5E853;border-radius:10px;padding:10px }
-.portfolio-section header { background-color:#B5E853 }
+.portfolio-section header { border-radius:10px;background-color:#B5E853 }
 .portfolio-section h2, .portfolio-section h3 { color:#1A1A1A;padding:5px 0 0 5px }
 
 #about-me img { float:left;height:100px;border-radius:50%;margin:5px 15px 50px 5px;box-shadow:5px 5px 10px #B5E853 }
