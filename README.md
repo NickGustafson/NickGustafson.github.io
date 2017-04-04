@@ -1,11 +1,12 @@
 <style type="text/css">
-#about-me { border:solid 2px #B5E853;border-radius:10px }
-#about-me header { background-color:#B5E853 }
-#about-me h2, #about-me h3 { color:#1A1A1A;padding:5px 0 0 5px }
+.portfolio-section { border:solid 2px #B5E853;border-radius:10px }
+.portfolio-section header { background-color:#B5E853 }
+.portfolio-section h2, .portfolio-section h3 { color:#1A1A1A;padding:5px 0 0 5px }
+
 #about-me img { float:left;height:100px;border-radius:50%;margin:5px 15px 50px 5px;box-shadow:5px 5px 10px #B5E853 }
 </style>
 
-<section id="about-me">
+<section id="about-me" class="portfolio-section">
   <header>
     <h2>IASC 2P02 | Nick Gustafson</h2>
     <h3>Bio</h3>
@@ -34,13 +35,13 @@
    </p>
 </section>
 
-<section id="featured">
+<section id="featured" class="portfolio-section">
   <header>
     <h3>Featured Project</h3>
     <h3>&quot;Title&quot;</h3>
   </header>
   
-  <img src="Reveal-presentation/images/image17.jpg" border="0" alt="" />
+  <img src="https://nickgustafson.github.io/Reveal-Presentation/images/image17.jpg" border="0" alt="" />
   
   <p>
     <strong>Abstract</strong>
@@ -54,17 +55,17 @@
   <a href="">View &quot;Title&quot;</a>
 </section>
 
-<section id="collab">
+<section id="collab" class="portfolio-section">
     <h3>Collaborative Project</h3>
     <a href="collab.html">StoryMapJS featuring &quot;Underground to Canada&quot;</a>
 </section>
 
-<section id="research">
+<section id="research" class="portfolio-section">
   <h3>Research Presentation</h3>
   <a href="Reveal-Presentation/">The Mechanical Tele-Vision <small>(or How the RRG Conquered the World)</small></a>
 </section>
 
-<section id="blog">
+<section id="blog" class="portfolio-section">
   <h3>Academic Blog</h3>
   <a href="blog.html">Is Programmatic Thinking Racist?</a>
 </section>
