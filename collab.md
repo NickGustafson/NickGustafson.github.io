@@ -4,15 +4,15 @@
 .portfolio-section h2, .portfolio-section h3 { color:#1A1A1A;padding:5px 0 0 5px }
 
 figure { float:left;margin:0 10px 10px 0; }
-#map_img { height:416px; }
+#map_img { height:600px; }
 </style>
 
 <section>
   <h2>StoryMapJS featuring Underground to Canada</h2>
   
   <figure>
-  <img id="map_img" src="images/original_utc.png" />
-  <figcaption>The original story map</figcaption>
+  <a href="images/original_utc.png"><img id="map_img" src="images/original_utc.png" />
+  <figcaption>The original story map</figcaption></a>
   </figure>
   
   <p><strong>Project Description</strong><br />
