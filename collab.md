@@ -3,8 +3,8 @@
 .portfolio-section header { background-color:#B5E853 }
 .portfolio-section h2, .portfolio-section h3 { color:#1A1A1A;padding:5px 0 0 5px }
 
-figure { float:left;margin:0 5px 5px 0; }
-#map_img { height:832px; }
+figure { float:left;margin:0 10px 10px 0; }
+#map_img { height:416px; }
 </style>
 
 <section>
