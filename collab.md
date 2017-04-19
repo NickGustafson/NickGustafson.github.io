@@ -3,7 +3,7 @@
 .portfolio-section header { background-color:#B5E853 }
 .portfolio-section h2, .portfolio-section h3 { color:#1A1A1A;padding:5px 0 0 5px }
 
-#map_img { float:left;height:100px;border-radius:25%;height:50%; }
+#map_img { position: absolute;clip: rect(0px,60px,200px,0px);height:100px;border-radius:25%;height:50%; }
 </style>
 
 <section>
