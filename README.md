@@ -54,6 +54,11 @@ research findings, and significance within the field.
 
 <p>
 <strong>Research process</strong><br />
+I would not say that much evolution occurred over time in this research.  Obviously, I fully read McPherson's article for a second time in preparation for writing my blog post, and I made a less thorough re-examination of the other course readings to determine which was most applicable to reference, deciding upon Drucker.  The bibliography section of both articles was a great starting point for locating further works on the same topic, which took me to the University's online library resources, leading to the second McPherson and Svensson articles.  I found the Princeton article on the history of UNIX through Google, and I thought would be interesting to perform text analysis upon.<br /><br />
+
+The added approximately 300 words to the end of my blog post, per the feedback I received from the instructor.  First, a brief discussion of whether McPherson's approach to the article was alienating to her audience, which I suggested it was and possibly intentionally so.  Next, I added a comment about my intention for the included Voyant visualizations.  In retrospect, I probably should not have left these to speak for themselves in the original submission.  Finally, I talked about my understanding of the term &quot;modularity&quot; and included a example from a recent web development project for a different course.<br /><br />
+
+I would say that this work has increased my knowledge of the visualization tools available online.  My previous exposure was mainly related to web analytics, which parsed log files and generated very different outputs.
 </p>
 
 <!--
