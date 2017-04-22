@@ -13,7 +13,13 @@ p { padding:10px;text-align:justify }
 </header>
 
 <p><strong>Research statement</strong><br />
-I will soon be completed my second year of the Interactive Arts and Science at Brock University.  I do not really have a specific interest or area of specialization within the digital humanities.  None of my existing projects are relective of the emphasis I do not have.  I have not demonstrated expertise in any specialization.  I don not know where I will take this work in the future. 
+I will soon have finished the second year of the Interactive Arts and Science program at Brock University.<br /><br />
+
+I do have some interest in a number of specializations within the digital humanities, including data visualization, text analysis and media archaeology.  These specializations do relate respectively to the <a href="#collab">collaborative</a>, <a href="#blog">academic blog</a> and <a href="#research">research presentation</a> projects described below.<br /><br />
+
+As may be gathered from the latter project, I do have an interest in exploring alternate histories (and enjoy dramatic presentations).  I think that an interesting research project could involve the text analysis of newspapers and periodicals both before and after the sinking of the <em>Titanic</em> or some other historical epoch of interest.  This could be viewed as an extension of my work digitizing 1911-1913 Welland census, city directory and map documents to create an HGIS.  I have spent some time "refurbishing" my own old code, maintaining the old appearance but improving or repairing the functionality, so a project that involved digging through archived web pages and making them work in modern browsers would also be something that would interest me.<br /><br />
+
+At this point, I really do not know where I will take this work in the future.  But it should be interesting.
 </p>
 
 <!--						
