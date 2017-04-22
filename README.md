@@ -44,7 +44,11 @@ specialization.
 
 <p>
 <strong>Abstract</strong><br />
-This academic blog post examined the arguments made by Tara McPherson in her 2012 article "Why Are the Digital Humanities So White? or Thinking the Histories of Race and Computation", specifically her contention that racist patterns of thought embedded in the tools of the digital humanist had ultimately influenced considerations of race in the field.
+This post examined the arguments made by McPherson in "Why Are the Digital Humanities So White? or Thinking the Histories of Race and Computation", specifically her contention that racist patterns of thought embedded in the tools of the digital humanist had ultimately influenced considerations of race in the field.<br /><br />
+
+In my response, I focused upon McPherson's contention that UNIX, as a predecessor to the modern O/S, had been encoded with "modes of racism" because of the era in which it was created.  I challenged the idea that casual users would neither know nor care how code was constructed and that there was as much evidence of a gender or linguistic bias on the part of the developers, which she did not mention.  I pointed out that correlation does not imply causation, or at least, not necessarily the directionality she suggested, and even if it did, that people and programs were not equivalent.  Finally, I dismissed the idea that programmers could not approach digital and real world problems in different manners.<br /><br />
+
+Regardless of whether her conclusion is correct, or indeed if that is even the point, the questions that McPherson raised and that my post attempted to address are significant to the study of digital humanities.  As in any experiment,  it is important to understand and account for any pre-existing conditions that may have an undesired effect upon the outcome.  If any element has skewed the result, that element must be corrected or must be adjusted for.
 </p>
 
 <!-- 
