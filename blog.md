@@ -1,18 +1,19 @@
 <style type="text/css">
-#main_content section { border:solid 2px #B5E853;border-radius:10px }
-#main_content header { background-color:#B5E853 }
-#main_content h2, #main_content h3 { color:#1A1A1A;padding:5px 0 0 5px }
+#main_content section { border:solid 2px #B5E853;border-radius:10px;padding:10px }
+#main_content header { border-radius:10px;background-color:#B5E853 }
+#main_content h2, #main_content h3, #main_content h5 { color:#1A1A1A;padding:5px 0 0 5px }
 
 #visualization img { margin:5px 15px 25px 5px;box-shadow:5px 5px 10px #B5E853;background-color:#ffffff }
 #visualization figcaption { font-size:smaller }
 
-p { padding:10px }
+p { padding:10px;text-align:justify !important; }
 </style>
 
 <section id="blog-body">
 <header>
 <h2>IASC 2P02 | Nick Gustafson</h2>
-<h3>Academic Blog Post</h3>
+<h3>Is Programmatic Thinking Racist?</h3>
+<h5>Academic Blog</h5>
 </header>
 
 <p>Tara McPherson is a scholar with a professed &quot;academic interest in race, gender, and certain modes of theoretical inquiry&quot; (McPherson, 2012) 
@@ -22,7 +23,8 @@ of race in the study of digital humanities.</p>
 
 <p>In the same way that Johanna Drucker challenged the work of scholars like Franco Moretti for accepting &quot;supposedly self-evident &quot; data as &quot;objects 
 whose identity was established by interpretative decisions&quot; (Drucker, 2011), it is perfectly reasonable for McPherson to go deeper and challenge the 
-very medium in which data is presented.  Svensson would seem to agree that &quot;digital tools should not be seen as neutral artifacts. In their construction and contextual use, they reproduce certain assumptions.&quot; (Svennson, 2010).</p>
+very medium in which data is presented.  Svensson would seem to agree that &quot;digital tools should not be seen as neutral artifacts. In their construction and contextual use, 
+they reproduce certain assumptions.&quot; (Svennson, 2010).</p>
 
 <p>The argument of McPherson focuses on the development of the UNIX operating system at Bell Labs in the 1960s, and not only places this within the 
 proper historical and cultural context of events such as the Civil Rights Movement, but suggests that  the events &quot;coconstitute [sic] one another, 
@@ -59,6 +61,17 @@ of its origin.</p>
 <p>Tellingly, when McPherson allows that advantages exist for this manner of coding, she then asserts that it &quot;underscore(s) a worldview in which a troublesome 
 part might be discarded without disrupting the whole&quot; (McPherson, 2012).   In this manner, she has ascribed to programmers a single-mindedness whereby they 
 would approach problems in the digital world in the same manner as the physical, which is ridiculous (and a bit offensive).</p>
+
+<p>
+<strong>Addendum</strong><br />
+It is conceivable that, as some have suggested, the manner in which McPherson presents her ideas could be alienating to the audience she is trying to connect with.  It is possible that
+she is being deliberately provocative in order to make the reader question their assumptions and consider new possibilities.  If that is the case, I believe she was successful, but might have been equally so if she suggested that
+Fanta drinkers were racist because the soda was developed in Nazi Germany.<br /><br />
+
+I created the Voyant visualizations of McPherson's article and a history of UNIX to see if connections or at least similar terms appeared in both works.  It is interesting to note that while the former does not link &quot;UNIX&quot; to &quot;race&quot; and &quot;gender&quot;, the latter does actually connect &quot;UNIX&quot; to &quot;group&quot; and &quot;people&quot;, which I suppose could provide some validation for her argument.<br /><br />
+
+Personally, I would apply the concept of modularity to software and equate it to ease of portability and code reuse. For instance, although a PHP web application might allow individual pages to specify a database provider, server url, user name and password, in practice, it is far more beneficial to encapsulate the implementation details in a class that can be used by multiple pages.  Case in point, a website I created for HIST2F27 used different providers in development and production, but because I hid the connection information from the pages, they could be used in a different environment with very little modification.  I cannot see how this idea could be successfully applied to people.
+</p>
 </section>
 
 <section id="visualization">
